@@ -1,4 +1,4 @@
-require ( './root.js' );
+srequire ( './root.js' );
 
 const { name, height, message } = require("../index.js");
 
